@@ -6,4 +6,7 @@ void main(List<String> args) {
 
 //constants can be assigned to finals but  not vice versa
   //const number3 = number2;
+
+  // constant values have to be initialized
+  ;
 }
